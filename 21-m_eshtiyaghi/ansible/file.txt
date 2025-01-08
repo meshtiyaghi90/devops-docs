@@ -1,0 +1,3 @@
+test file copy by ansible file
+
+test copy to server 1,2
